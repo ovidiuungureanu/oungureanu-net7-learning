@@ -1,0 +1,15 @@
+D:\GIT\oungureanu-net7-learning\week1\week1\bin\Debug\net6.0\week1.exe
+D:\GIT\oungureanu-net7-learning\week1\week1\bin\Debug\net6.0\week1.deps.json
+D:\GIT\oungureanu-net7-learning\week1\week1\bin\Debug\net6.0\week1.runtimeconfig.json
+D:\GIT\oungureanu-net7-learning\week1\week1\bin\Debug\net6.0\week1.dll
+D:\GIT\oungureanu-net7-learning\week1\week1\bin\Debug\net6.0\week1.pdb
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.csproj.AssemblyReference.cache
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.AssemblyInfoInputs.cache
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.AssemblyInfo.cs
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.csproj.CoreCompileInputs.cache
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.dll
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\refint\week1.dll
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.pdb
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\week1.genruntimeconfig.cache
+D:\GIT\oungureanu-net7-learning\week1\week1\obj\Debug\net6.0\ref\week1.dll
